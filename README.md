@@ -9,7 +9,7 @@ Stated web application provide a user interactable cab service to the user. This
 
 **INSTALLATION**
 
-To run this project in your system download all files of the repository and save them in a single folder. Make sure that all the file should be in the same folder. Then run “index.html” file on a web browser you will get the web application.
+To run this project in your system download all files of the repository and save them in a single folder. Make sure that all the file should be in the same folder. Run the server.js file with your email id and password for creating a server for sending email to the client. Then run “index.html” file on a web browser you will get the web application.
 
 
 **PROCESS**
